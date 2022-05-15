@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+## An Elixir application for create icon based on username
 
 ## Installation
 
